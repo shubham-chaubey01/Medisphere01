@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "11889957507",
+    "firebase_url": "https://health12x-default-rtdb.firebaseio.com",
+    "project_id": "health12x",
+    "storage_bucket": "health12x.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11889957507:android:a01e86f33964e7b51259b6",
+        "android_client_info": {
+          "package_name": "com.example.healthcare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1P1m0k8c-2O0IV3bP20MS1c7q8AI5ybk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11889957507:android:354b089ded6ccb571259b6",
+        "android_client_info": {
+          "package_name": "com.example.healthcare2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1P1m0k8c-2O0IV3bP20MS1c7q8AI5ybk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
